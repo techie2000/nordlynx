@@ -136,7 +136,7 @@ To get your `PRIVATE_KEY` you will need to get an access token from the NordVPN 
 3. In the middle, under **Manual setup**, click on **Set up NordVPN manually** and go through the verification process
 4. On the new page, in the middle, in the **Access token** box, click on **Generate new token**
 5. In the **Generate new token?** pop-up box, select **Set to expire in 30 days** and click **Generate token**
-6. In the **Copy access token** pop-up box, click the **Copy** linnk to copy your token
+6. In the **Copy access token** pop-up box, click the **Copy** link to copy your token
 7. From your computer where Docker is installed, run the below command and replace `{{{TOKEN}}}` with what you copied from step 6 above:
 
     ```
